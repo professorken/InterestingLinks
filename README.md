@@ -5,13 +5,14 @@ Graphics
 
 •	sharkle.com – a list of odd graphic sites different artists have created (amazing talents)
 
+
 Asteroid Launcher
 •	https://neal.fun/asteroid-launcher/
 
 Cybersecurity
 
 •	www.shodan.io – search the Internet of Things for hackers
-•	
+•	https://whatsonhttp.com/
 
 Internet of Things
 •	www.insecam.org – a list of web cameras around the globe with lousy password security
@@ -41,7 +42,10 @@ TOR Links – You have to have the TOR Browser to access these particular links
 •	
 
 https://hackaday.io/
+
+3d Printing:
 https://www.thingiverse.com/
+
 http://stahlworks.com/dev/swiss-file-knife.html
 https://docs.google.com/spreadsheets/d/1C-cShTq6SAPmBWEKnQxvj_wN4EDdhdU9W5pdqzBHnks/edit#gid=930747607
 https://adventofcode.com/
