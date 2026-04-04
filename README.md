@@ -47,28 +47,27 @@ https://hackaday.io/
 https://www.thingiverse.com/
 
 http://stahlworks.com/dev/swiss-file-knife.html
-https://docs.google.com/spreadsheets/d/1C-cShTq6SAPmBWEKnQxvj_wN4EDdhdU9W5pdqzBHnks/edit#gid=930747607
+BellingCat OSINT Toolkit
+ •	 https://docs.google.com/spreadsheets/d/1C-cShTq6SAPmBWEKnQxvj_wN4EDdhdU9W5pdqzBHnks/edit#gid=930747607
 https://adventofcode.com/
 https://www.virustotal.com/gui/home/url
 https://tinyapps.org/
 https://open.kattis.com/
 https://www.shodan.io/
-http://insecam.org/
+
 https://extract.me/
-https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html
-https://stackoverflow.com/questions/11497837/glpushmatrix-stops-all-rotation-from-happening
+
 https://pcpartpicker.com/
 https://checkusernames.com/
 https://www.whois.com/
-http://bugmenot.com/view/bugme.com
-https://12ft.io/
+
+
 https://archive.ph/
-https://techunder10.com/
+
 https://agoodmovietowatch.com/
 http://astronaut.io/
 https://distrowatch.com/
 https://www.pcmag.com/how-to/how-to-turn-a-raspberry-pi-into-a-nas-for-whole-home-file-sharing
-https://flowful.app/
 https://www.opensourcealternative.to/
 https://athenecurricula.org/catalog.php
 https://nmap.org/
@@ -80,9 +79,9 @@ https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhp
 https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en
 https://obsidian.md/
 https://tails.boum.org/
-https://www.google.com/search?q=scihub&rlz=1C9BKJA_enUS891US895&oq=scihub&aqs=chrome..69i57j0i10i512j0i512l3j5.2152j1j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8
-https://www.google.com/search?q=fmovies&rlz=1C9BKJA_enUS891US895&oq=fmovies&aqs=chrome..69i57j0i131i433i512l2j46i512j0i512j46i131i433i512.1285j1j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#sbfbu=0&pi=fmovies
-https://www.google.com/search?q=index+%7Bpost+malone%7D+.mp3&rlz=1C9BKJA_enUS891US895&oq=index+%7Bpost+malone%7D+.mp3&aqs=chrome..69i57.26881j1j7&hl=en-US&sourceid=chrome-mobile&ie=UTF-8#cobssid=s
+
+
+
 https://www.corewars.org/
 https://www.govdeals.com/index.cfm?clientOnly=
 https://vocalremover.org/
@@ -102,7 +101,9 @@ https://hackthemenu.com/
 https://musclewiki.com/
 https://www.importyeti.com/
 https://cityprotect.com/map/list/agencies?toDate=2022-12-13T23:59:59.999Z&fromDate=2022-12-10T00:00:00.000Z&pageSize=2000&parentIncidentTypeIds=149,150,148,8,97,104,165,98,100,179,178,180,101,99,103,163,168,166,12,161,14,16,15&zoomLevel=5&latitude=36.8231065&longitude=-95.8455374&days=1,2,3,4,5,6,7&startHour=0&endHour=24&timezone=%2B00:00&relativeDate=custom
-https://cheatography.com/
+
+Cheat Sheets Galore
+  https://cheatography.com/
 https://lozo.com/
 https://noclip.website/
 https://www.security.org/how-secure-is-my-password/
